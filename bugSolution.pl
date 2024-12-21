@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); foreach my $element (@array) { print "Value: $element\n"; }
